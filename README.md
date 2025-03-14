@@ -25,5 +25,5 @@
 ---
 
 ### 🛠 &nbsp;Commit info
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juulvanorsouw&layout=compact&theme=dark)(#)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juulvanorsouw&theme=tokyonight)(#)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juulvanorsouw&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juulvanorsouw&theme=tokyonight)
