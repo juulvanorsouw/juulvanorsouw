@@ -21,3 +21,9 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+
+---
+
+### 🛠 &nbsp;Commit info
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juulvanorsouw&layout=compact&theme=dark)(#)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juulvanorsouw&theme=tokyonight)(#)
