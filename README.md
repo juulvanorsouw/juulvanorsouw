@@ -24,6 +24,10 @@
 
 ---
 
-### 🛠 &nbsp;Commit info
+### 🛠 &nbsp;Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juulvanorsouw&layout=compact&theme=dark" alt="Top Langs" />
+
+---
+
+### 🛠 &nbsp;GitHub commits
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=juulvanorsouw&theme=dark" alt="GitHub Streak" />
