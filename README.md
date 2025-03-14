@@ -28,10 +28,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=juulvanorsouw&theme=light" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=juulvanorsouw&theme=dark" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juulvanorsouw&layout=compact&theme=light" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juulvanorsouw&layout=compact&theme=dark" alt="Top Langs" />
     </td>
   </tr>
 </table>
